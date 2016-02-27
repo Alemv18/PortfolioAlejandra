@@ -152,13 +152,22 @@ a {
 	font-family: 'Pacifico', cursive;
 	
 }
+#tituloPersona2{
+	color:white;
+	font-size:44px;
+	font-family: 'Pacifico', cursive;
+}
 
 #iconoUser{
 	color:white;
 }
 
-
-
+#about{
+	background-color: hsla(0, 88%, 70%, 1);
+}
+.container{
+	color:gray;
+}
 
 
 
