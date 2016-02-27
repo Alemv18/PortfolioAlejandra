@@ -135,18 +135,27 @@ a {
 
 /*NEW CSS */
 #alejandra{
-	width:400px;
+	width:350px;
 	margin:0 auto;
+	padding-top:20px;
+	padding-bottom:20px;
 }
 #tituloPrincipal{
+	font-family: 'Patua One', cursive;
 	color:white;
 	font-size:60px;
 }
 #tituloPersona{
-	color:pink;
+	/*color: hsla(0, 88%, 70%, 1);*/
+	color:gray;
 	font-size:44px;
+	font-family: 'Pacifico', cursive;
+	
 }
 
+#iconoUser{
+	color:white;
+}
 
 
 
