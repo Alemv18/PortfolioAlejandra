@@ -29,10 +29,12 @@ a {
 	color:white;
 }
 
+
 #return
 {
   text-decoration:none;
   color:white;
+
 }
 
 .container > header {
@@ -152,15 +154,20 @@ a {
 	margin:0 auto;
 	padding-top:20px;
 	padding-bottom:20px;
+	opacity: 0.75;
+    filter: alpha(opacity=40);
+
 }
 #tituloPrincipal{
 	font-family: 'Patua One', cursive;
+	text-shadow: 4px 4px black;
 	color:white;
 	font-size:60px;
 }
 #tituloPersona{
 	/*color: hsla(0, 88%, 70%, 1);*/
-	color:gray;
+	color:#f26a6a;	
+	 text-shadow: 2px 2px black;
 	font-size:44px;
 	font-family: 'Pacifico', cursive;
 	
@@ -197,6 +204,14 @@ a {
 	font-family: 'Calibri';
 }
 
+.aboutText{
+	color:white;
+}
+
+
+#angular{
+	width:10%;
+}
 /*Contact section*/
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700,400italic);
 @font-face {
