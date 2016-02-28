@@ -20,6 +20,19 @@ a, button {
 
 a {
 	text-decoration: none;
+	color:white;
+}
+#return a{
+	color:white;
+}
+#return a:hover{
+	color:white;
+}
+
+#return
+{
+  text-decoration:none;
+  color:white;
 }
 
 .container > header {
@@ -63,7 +76,7 @@ a {
 
 .codrops-top a:hover {
 	background: rgba(255,255,255,0.95);
-	color: #777;
+	color: white;
 }
 
 .codrops-top span.right {

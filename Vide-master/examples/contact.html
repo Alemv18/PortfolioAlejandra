@@ -10,11 +10,17 @@
   <link rel="stylesheet" type="text/css" href="../css/demo.css" />
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
   <link href='https://fonts.googleapis.com/css?family=Pacifico|Patua+One|Capriola|Oleo+Script+Swash+Caps' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico|Patua+One|Capriola|Oleo+Script+Swash+Caps' rel='stylesheet' type='text/css'>
 
   <script src="../libs/modernizr.custom.js"></script>
 
   </head>
+
   <body id="contact">
+
+  <div class="container col-xs-12" id="return">    
+        <a href="body-bg.html"><i class="fa fa-home">Return to homepage</i></a>
+        </div>
 
   <h1 class="text-primary text-center" id="sendMsg">Send me a message.</h1>
 
@@ -56,7 +62,8 @@
             </div><!-- / controls -->
           </div><!-- /simform-inner -->
           <span class="final-message"></span>
-        </form><!-- /simform -->      
+        </form><!-- /simform -->  
+        
       </section>
       
     </div><!-- /container -->
@@ -80,7 +87,7 @@
           // let's just simulate something...
           var messageEl = theForm.querySelector( '.final-message' );
           messageEl.innerHTML = 'Thank you! I will get in touch!';
-          classie.addClass( messageEl, 'show' );
+          classie.addClass(messageEl, 'show');
         }
       } );
     </script>
