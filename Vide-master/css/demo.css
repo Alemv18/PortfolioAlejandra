@@ -183,7 +183,8 @@ a {
 }
 
 #about{
-	background-color: hsla(0, 88%, 70%, 1);
+	background-image:url("../img/back1.jpg");
+
 }
 .container{
 	color:white;
@@ -208,9 +209,29 @@ a {
 	color:white;
 }
 
+/*#about{
+	box-shadow: 10px 10px 5px #f48181;
+}*/
 
 #angular{
 	width:10%;
+}
+
+#subtitulos{
+	color:white;
+	font-family: 'Crete Round', serif;
+	font-size:30px;
+
+}
+#icono2{
+	width:20%;
+}
+#rails{
+	color:darkslategrey;
+}
+h3{
+	color:white;
+	font-size:20px;
 }
 /*Contact section*/
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700,400italic);
