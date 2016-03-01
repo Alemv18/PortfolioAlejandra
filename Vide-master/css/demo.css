@@ -164,6 +164,13 @@ a {
 	color:white;
 	font-size:60px;
 }
+
+#tituloPrincipal2 {
+	font-family: 'Patua One', cursive;
+	text-shadow: 4px 4px lightgray;
+	color:#ff6666;
+	font-size:50px;
+}
 #tituloPersona{
 	/*color: hsla(0, 88%, 70%, 1);*/
 	color:#f26a6a;	
@@ -219,7 +226,7 @@ a {
 }
 
 #subtitulos{
-	color:white;
+	color:#ff6666;
 	font-family: 'Crete Round', serif;
 	font-size:30px;
 	text-shadow: 1px 1px gray;
@@ -246,6 +253,54 @@ h3{
 	background-color:black;
 	color:white;
 }
+
+#hi{
+	backgrond-image:url("../img/back1.jpg");
+}
+
+#etitle{
+	font-weight: bold;
+	color:white;
+	font-family:'Arial';
+}
+#etitleSilicio{
+	font-weight: bold;
+	color:white;
+	font-family:'Arial';
+	font-size:19px;
+}
+
+#eDate{
+	font-weight: bold;
+	color:white;
+	font-family:'Arial';
+	line-height: 100%;
+	font-size:20px;
+	text-align:justify;
+}
+#eDate2{
+	font-weight: bold;
+	color:white;
+	font-family:'Arial';
+	line-height: 100%;
+	font-size:18px;
+	text-align:justify;
+}
+
+#google{
+	font-size:15px;
+	line-height: 100%;
+	font-family:'Arial';
+	color:white;
+	
+}
+#googleLogo{
+	width:70%;
+}
+#infinitoLogo{
+	width:100%;
+}
+
 /*Contact section*/
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700,400italic);
 @font-face {
