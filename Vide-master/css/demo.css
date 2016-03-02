@@ -254,8 +254,11 @@ h3{
 	color:white;
 	font-size:20px;
 	font-family: 'Crete Round', serif;
-	
-
+}
+#tech3{
+	color:gray;
+	font-size:20px;
+	font-family: 'Crete Round', serif;
 }
 #later{
 	background-color:black;
@@ -325,6 +328,18 @@ h3{
 	font-size:50px;
 	text-align:center;
 }
+
+#code2{
+	font-size:50px;
+	text-align:center;
+	color:powderblue;
+}
+#code3{
+	font-size:50px;
+	text-align:center;
+	color:grey;
+}
+
 #hack{
 	width:107px;
 }
@@ -337,7 +352,16 @@ h3{
 #cloud{
 	color:black;
 }
-
+#graphic{
+	font-size:50px;
+	text-align:center;
+	color: #ff6666;
+}
+#net{
+	font-size:50px;
+	text-align:center;
+	color:#001a4d;
+}
 
 
 /*Contact section*/
