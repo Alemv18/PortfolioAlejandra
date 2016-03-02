@@ -316,7 +316,27 @@ h3{
 #w2{
 	width:200%;
 }
+#operating{
+	color:black;
+	font-family: 'Crete Round', serif;
 
+}
+#code{
+	font-size:50px;
+	text-align:center;
+}
+#hack{
+	width:107px;
+}
+#rob{
+	width:130px;
+}
+#dev{
+	width:100px;
+}
+#cloud{
+	color:black;
+}
 
 
 
