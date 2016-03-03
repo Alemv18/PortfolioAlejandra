@@ -322,22 +322,9 @@ h3{
 #operating{
 	color:black;
 	font-family: 'Crete Round', serif;
-
 }
-#code{
-	font-size:50px;
-	text-align:center;
-}
-
-#code2{
-	font-size:50px;
-	text-align:center;
-	color:powderblue;
-}
-#code3{
-	font-size:50px;
-	text-align:center;
-	color:grey;
+#int{
+	width:30%;
 }
 
 #hack{
@@ -363,6 +350,14 @@ h3{
 	color:#001a4d;
 }
 
+#icons{
+	font-size:40px;
+	text-align:center;
+}
+#social{
+	font-size:15px;
+	color:black;
+}
 
 /*Contact section*/
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700,400italic);
