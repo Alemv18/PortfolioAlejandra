@@ -165,7 +165,18 @@ a {
 	font-size:60px;
 }
 
-#tituloPrincipal2 {
+#tituloPrincipalBlog{
+	font-family: 'Arial';
+	color:white;
+	font-size:250px;
+}
+#tituloPrincipalBlog2{
+	font-family: 'Arial';
+	color:pink;
+	font-size:300px;
+}
+
+#tituloPrincipal2{
 	font-family: 'Patua One', cursive;
 	text-shadow: 4px 4px lightgray;
 	color:#ff6666;
@@ -355,11 +366,31 @@ h3{
 	font-size:40px;
 	text-align:center;
 }
+#icons2{
+	font-size:40px;
+	text-align:center;
+	margin-top:200%;
+	color:white;
+}
 #social{
 	font-size:15px;
 	color:black;
 }
+/*BLOG PART*/
+#blogBODY{
+	background-color:#f05252;
+}
 
+#portBODY{
+	background-image: url("../img/back.jpg");
+}
+#portfolio{
+	font-family: 'Pacifico', cursive;
+	text-shadow: 4px 4px black;
+	color:white;
+	font-size:120px;
+	font-style: bold;
+}
 /*Contact section*/
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700,400italic);
 @font-face {
