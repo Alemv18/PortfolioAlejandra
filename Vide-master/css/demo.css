@@ -391,6 +391,20 @@ h3{
 	font-size:120px;
 	font-style: bold;
 }
+#works{
+	padding-top: 100px;
+}
+#cocise{
+	width:85%;
+	padding-top: 20px;
+}
+#git{
+	width: 130%;
+}
+#poderUno{
+	width:90%;
+	padding-top: 20px;
+}
 /*Contact section*/
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700,400italic);
 @font-face {
