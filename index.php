@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+  <meta charset="UTF-8">
+  <title>Portolio Alejandra Muñoz</title>
+  <meta name="description" content="Circular Navigation Styles - Building a Circular Navigation with CSS Transforms | Codrops " />
+		<meta name="description" content="Circular Navigation Styles - Building a Circular Navigation with CSS Transforms | Codrops " />
+		<meta name="keywords" content="css transforms, circular navigation, round navigation, circular menu, tutorial" />
+		<meta name="author" content="Sara Soueidan for Codrops" />
+		<!-- <link rel="shortcut icon" href="../favicon.ico"> -->
+		<link rel="stylesheet" type="text/css" href="../assets/css/normalize.css" />
+		<link rel="stylesheet" type="text/css" href="../assets/css/demo.css" />
+		<link rel="stylesheet" type="text/css" href="../assets/css/component1.css" />
+		<script src="modernizr-2.6.2.min.js"></script>
+
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+		<link href='https://fonts.googleapis.com/css?family=Pacifico|Patua+One|Capriola|Oleo+Script+Swash+Caps' rel='stylesheet' type='text/css'>
+
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+
+
+
+
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-7243260-2']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+			</script>
+
+<style>
+    html, body {
+      margin: 0;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+
+
+<body data-vide-bg="../assets/examples/video/ocean">
+
+
+<img id="alejandra" class="img-circle img-responsive" src="../assets/img/ale3.jpg"/>
+
+<h1 class="text-center text-primary" id="tituloPrincipal">Alejandra Muñoz Villalobos</h1>
+<h2 class="text-center text-secundary" id="tituloPersona">Web developer / Graphic Designer</h2>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="jquery.min.js"><\/script>')</script>
+<script src="jquery.vide.js"></script>
+<script>
+ // $(document).ready(function () {
+ //   $(document.body).vide('../assets/examples/video/ocean'); // Non declarative initialization
+ //
+ //   var instance = $(document.body).data('vide'); // Get the instance
+ //   var video = instance.getVideoObject(); // Get the video object
+ //   instance.destroy(); // Destroy instance
+ // });
+</script>
+
+
+<div class="component">
+				<!-- Start Nav Structure -->
+				<button class="cn-button" id="cn-button">+</button>
+				<div class="cn-wrapper" id="cn-wrapper">
+				    <ul>
+				      <li><a href="../assets/examples/about.html" alt="about"><i class="fa fa-user" alt="about"></i></a></li>
+				      <li><a href="../assets/examples/portfolio.html" alt="portfolio"><i class="fa fa-folder-open"></i></a></li>
+				      <li><a href="index.php"><i class="fa fa-home"></i></a></li>
+				      <li><a href="../assets/examples/blog.html"><i class="fa fa-newspaper-o"></i></a></li>
+				      <li><a href="../assets/examples/contact.html"><i class="fa fa-envelope"></i></a></li>
+				     </ul>
+				</div>
+				<div id="cn-overlay" class="cn-overlay"></div>
+				<!-- End Nav Structure -->
+			</div>
+		</div><!-- /container -->
+		<script src="polyfills.js"></script>
+		<script src="demo1.js"></script>
+		<!-- For the demo ad only -->   
+
+
+</body>
+</html>
